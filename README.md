@@ -20,10 +20,10 @@ I`m a Frontend developer with technology stack based on Vue (2/3).
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>
-<img src="https://v4.material-ui.com/static/nuxtjs-original.png" title="Nuxt" alt="Nuxt" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.png" title="Nuxt" alt="Nuxt" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop " alt="Photoshop" width="55" height="55"/>
 </div>
